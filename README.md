@@ -53,9 +53,11 @@ I'm focused on solidifying my full-stack capabilities, particularly in backend a
 
 ### 📚 Latest Musings & Insights
 
-  https://github-readme-medium-recent-article.vercel.app/medium/blixture793/0
-  https://github-readme-medium-recent-article.vercel.app/medium/blixture793/1
-  https://github-readme-medium-recent-article.vercel.app/medium/blixture793/3
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@blixture793/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@blixture793/0" alt="Recent Article 0">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@blixture793/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@blixture793/1" alt="Recent Article 1">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@blixture793/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@blixture793/2" alt="Recent Article 2">
 
 ---
 
