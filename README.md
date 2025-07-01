@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/MicaiahWall/MicaiahWall/main/profile-header.svg" alt="Profile Header" width="700"/>
   <h1>👋 Hello, I'm Dhruv Desai!</h1>
   <p>🚀 An Aspiring Full-Stack Developer & Tech Enthusiast</p>
 </div>
@@ -9,15 +10,13 @@
 
 As an **18-year-old fresh graduate**, I'm deeply passionate about software development and eager to make my mark. My foundational skills in **frontend technologies like HTML, CSS, ReactJS, and JavaScript** seamlessly blend with my growing expertise in **backend development primarily using Node.js**. I love solving complex problems by writing clean, efficient, and well-structured code.
 
-I'm focused on solidifying my full-stack capabilities, particularly in backend architecture, database design, and cloud deployment. Beyond my core development, I maintain a keen curiosity for **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Web3 technologies**, always keeping an eye on the evolving tech landscape.
+I'm focused on solidifying my full-stack capabilities, particularly in backend architecture and API development. Beyond my core development, I maintain a keen curiosity for **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Web3 technologies**, always keeping an eye on the evolving tech landscape.
 
 ---
 
 ### 💡 What I'm Learning & Building Right Now
 
 * **Backend Mastery (Node.js):** Deep-diving into **Node.js (Express)**, designing robust RESTful APIs, and implementing secure authentication systems.
-* **Data Persistence:** Getting hands-on with **PostgreSQL** and **MongoDB** for efficient and scalable data management.
-* **Cloud Engineering:** Kicking off my journey with **AWS/GCP fundamentals** to deploy and manage distributed systems.
 * **Current Project:** Actively developing a **[BRIEF, EXCITING DESCRIPTION OF A CURRENT NODE.JS BACKEND PROJECT, e.g., "a real-time collaborative document editor backend using WebSockets" or "a secure user authentication microservice with Node.js"]** to push my limits and apply new concepts.
 
 ---
@@ -36,9 +35,6 @@ I'm focused on solidifying my full-stack capabilities, particularly in backend a
   </a>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,aws,gcp" />
   </a>
 </p>
 
@@ -82,5 +78,6 @@ I'm always excited to discuss new technologies, collaborate on innovative projec
 ---
 
 *P.S. Curious what I'm listening to while coding?*
+[![Spotify](https://novatorem.gh-api.top/api/spotify?user=username_here)](https://open.spotify.com/user/your_spotify_username_here)
 <br/>
 *Feel free to explore my repositories and contributions – always building, always learning!*
