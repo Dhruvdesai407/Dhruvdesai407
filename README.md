@@ -24,40 +24,23 @@ I'm focused on solidifying my full-stack capabilities, particularly in backend a
 
 ### ⚙️ My Ever-Evolving Toolkit
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#html-css">
-        <img src="https://skillicons.dev/icons?i=html,css" width="48" height="48" alt="HTML/CSS" /><br>HTML & CSS
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#javascript">
-        <img src="https://skillicons.dev/icons?i=js,react" width="48" height="48" alt="JavaScript/React" /><br>JS & React
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#nodejs">
-        <img src="https://skillicons.dev/icons?i=nodejs,express" width="48" height="48" alt="Node.js/Express" /><br>Node.js & Express
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#python">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
-      </a>
-    </td>
-     <td align="center" width="96">
-      <a href="#data">
-        <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" width="48" height="48" alt="NumPy/Pandas/Matplotlib" /><br>Data Essentials
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#git">
-        <img src="https://skillicons.dev/icons?i=git,github" width="48" height="48" alt="Git/GitHub" /><br>Git & GitHub
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,aws,gcp" />
+  </a>
+</p>
 
 ---
 
@@ -65,7 +48,9 @@ I'm focused on solidifying my full-stack capabilities, particularly in backend a
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhruvdesai407&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25" alt="Dhruv's GitHub Stats"/>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvdesai407&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Dhruv's GitHub Streak"/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvdesai407&layout=compact&theme=dark" alt="Dhruv's Top Languages"/>
 </div>
 
@@ -97,6 +82,5 @@ I'm always excited to discuss new technologies, collaborate on innovative projec
 ---
 
 *P.S. Curious what I'm listening to while coding?*
-[![Spotify](https://novatorem.gh-api.top/api/spotify?user=username_here)](https://open.spotify.com/user/your_spotify_username_here)
 <br/>
 *Feel free to explore my repositories and contributions – always building, always learning!*
