@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaiahWall/MicaiahWall/main/profile-header.svg" alt="Profile Header" width="700"/>
   <h1>👋 Hello, I'm Dhruv Desai!</h1>
   <p>🚀 An Aspiring Full-Stack Developer & Tech Enthusiast</p>
 </div>
@@ -53,15 +52,11 @@ I'm focused on solidifying my full-stack capabilities, particularly in backend a
 ---
 
 ### 📚 Latest Musings & Insights
-<!-- BLOG-POST-LIST:START -->
 
+  https://github-readme-medium-recent-article.vercel.app/medium/blixture793/0
+  https://github-readme-medium-recent-article.vercel.app/medium/blixture793/1
+  https://github-readme-medium-recent-article.vercel.app/medium/blixture793/3
 
-
-
-
-
-
-<!-- BLOG-POST-LIST:END -->
 ---
 
 ### 🌐 Let's Connect & Collaborate!
@@ -86,6 +81,5 @@ I'm always excited to discuss new technologies, collaborate on innovative projec
 ---
 
 *P.S. Curious what I'm listening to while coding?*
-[![Spotify](https://novatorem.gh-api.top/api/spotify?user=username_here)](https://open.spotify.com/user/your_spotify_username_here)
 <br/>
 *Feel free to explore my repositories and contributions – always building, always learning!*
