@@ -14,8 +14,8 @@ jobs:
       - name: Fetch and update Medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@blixture793" 
-          max_post_count: 4
+          feed_list: "https://medium.com/feed/@blixture793" # Your Medium RSS FEED URL (This is correct for your Medium!)
+          max_post_count: 5 # How many latest posts to display
           template: "- [$title]($url) - $date<br/>" # The format for each post entry
           file_path: "README.md" # The file to update
           start_marker: "" # Marker in README
