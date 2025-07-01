@@ -1,0 +1,31 @@
+name: Update Medium Posts on README
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC (Adjust if you want a different frequency)
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
+jobs:
+  update-medium-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and update Medium posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@blixture793" 
+          max_post_count: 4
+          template: "- [$title]($url) - $date<br/>" # The format for each post entry
+          file_path: "README.md" # The file to update
+          start_marker: "" # Marker in README
+          end_marker: "" # End marker in README
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "docs: Update latest Medium posts" # Commit message
+          add: "README.md" # The file to add to the commit
+          pull_strategy: "pull_rebase" # Ensure latest changes are pulled before commit
